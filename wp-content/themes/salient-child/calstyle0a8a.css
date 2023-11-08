@@ -1,0 +1,88 @@
+.calculatorsupdated .row.multi {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.calculatorsupdated .field {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+input#phone {
+    flex: 0 0 38.33%;
+}
+input#areacode {
+    flex: 0 0 9.66%;
+    margin-right: 6px;
+}
+.calculatorsupdated input[type="text"],
+.calculatorsupdated input[type="email"],
+.calculatorsupdated input[type="tel"] {
+  flex: 1;
+  padding: 10px;
+  margin-right: 18px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+}
+
+.calculatorsupdated input[type="text"]:last-child,
+.calculatorsupdated input[type="email"]:last-child,
+.calculatorsupdated input[type="tel"]:last-child {
+  margin-right: 0;
+}
+ .calculatorsupdated #custom-sidebar {margin-top: 50px;    padding-left: 20px;}
+ .calculatorsupdated input[type="radio"] {display: none;}
+/* Style the custom radio button */
+.calculatorsupdated input[type="radio"] + label {
+display: inline-block;
+cursor: pointer;
+padding: 7px 10px;
+border: 1px solid #ccc;
+min-width: 70px;
+text-align: center;
+}
+
+/* Style the custom radio button when selected */
+.calculatorsupdated input[type="radio"]:checked + label {
+background-color: #ebb3be;
+border-color: #b10f2e;
+color: #b10f2e;
+}
+#bcp_pnp_calc .section{width:100%}
+#bcp_pnp_calc p {border-bottom: 1px solid lightgrey; }
+#bcp_pnp_calc p span {color: #b10f2e; font-size: 20px;}
+#bcp_pnp_calc label {margin: 10px 0;}
+#bcp_pnp_calc select {margin-bottom: 10px;border-radius: 0;}
+#bcp_pnp_calc .radio-container label {margin-right: 15px !important;}
+#bcp_pnp_calc .form-field{padding: 20px;border-radius: 10px;}
+#bcp_pnp_calc input,#bcp_pnp_calc select{border: 1px solid gray;}
+#bcp_pnp_calc .error{border: 1px solid red!important;}
+.calculatorscontainer.main-content {padding: calc(100vw * 0.07);}
+.calculatorscontainer.main-content .col { margin-right: 0;}
+#bcp_pnp_calc .radio-container{ display: flex;align-items: center;margin-bottom: 10px;
+    margin-top: 20px;}
+#bcp_pnp_calc .radio-container input[type="radio"] { margin-right: 10px;}
+#bcp_pnp_calc .radio-container label{margin:0 20px 0 0}
+.calculatorsupdated #calculate-score {
+  background-color: #b10f2e;
+  padding: 10px 20px;
+  border: 0;
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+#downloadreport {
+  background-color: #b10f2e;
+  border: 0;
+  color: #fff;
+  padding: 15px 20px;
+  font-size: 15px;
+}
+.calculatorsupdated #bcp_pnp_calc .form-field h4{color: #333; font-family: Arial, sans-serif;font-size: 24px;text-transform: uppercase;margin-top: 20px;}
+.calculatorsupdated #div_results { float: left; width: 100%; padding: 0; margin: 30px 0; border: 1px solid #dfdcdc; }
+.calculatorsupdated #div_results span { display: block; width: 100%; font-size: 14px; color: #333; border-radius: 0; border-bottom: solid 1px #DEDBDB; padding: 5px 20px; }
+.calculatorsupdated #div_results span:nth-child(odd) { background-color: #f5f5f5 }
+.calculatorsupdated #div_results span:empty { display: none !important }
+.calculatorsupdated #div_results span[id="sum"] { background: #96001c; padding: 8px 20px; color: #fff; font-weight: bold; text-transform: uppercase;}
