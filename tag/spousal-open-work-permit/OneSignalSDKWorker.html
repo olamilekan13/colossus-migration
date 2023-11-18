@@ -273,9 +273,9 @@ oneSignal_options['promptOptions']['cancelButtonText'] = "CANCEL";
     </script>
 <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
 <link rel="icon" href="https://www.elaarimmigration.ca/wp-content/uploads/2019/11/IMG-20191104-WA0000-100x100.jpg" sizes="32x32" />
-<link rel="icon" href="https://www.elaarimmigration.ca/wp-content/uploads/2019/11/IMG-20191104-WA0000-300x300.jpg" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://www.elaarimmigration.ca/wp-content/uploads/2019/11/IMG-20191104-WA0000-300x300.jpg" />
-<meta name="msapplication-TileImage" content="https://www.elaarimmigration.ca/wp-content/uploads/2019/11/IMG-20191104-WA0000-300x300.jpg" />
+<link rel="icon" href="https://colossustours.com/wp-content/uploads/2023/03/LOGOCOLOTOURAsset-9.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://colossustours.com/wp-content/uploads/2023/03/LOGOCOLOTOURAsset-9.png" />
+<meta name="msapplication-TileImage" content="https://colossustours.com/wp-content/uploads/2023/03/LOGOCOLOTOURAsset-9.png" />
 		<style type="text/css" id="wp-custom-css">
 			----Dubai-----
 
