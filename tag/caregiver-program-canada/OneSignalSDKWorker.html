@@ -4,29 +4,29 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
 <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-<title>Page not found - Elaar Immigration Consulting Inc</title>
+<title>Page not found - Colossus Migration Consulting Inc</title>
 <meta name="robots" content="follow, noindex"/>
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Page not found - Elaar Immigration Consulting Inc" />
-<meta property="og:site_name" content="Elaar Immigration Consulting Inc" />
+<meta property="og:title" content="Page not found - Colossus Migration Consulting Inc" />
+<meta property="og:site_name" content="Colossus Migration Consulting Inc" />
 <meta property="article:publisher" content="https://www.facebook.com/elaarimmigration/" />
 <meta property="og:image" content="https://www.elaarimmigration.ca/wp-content/uploads/2022/02/ELAAR-IMMIGRATION-CONSULTING-INC..png" />
 <meta property="og:image:secure_url" content="https://www.elaarimmigration.ca/wp-content/uploads/2022/02/ELAAR-IMMIGRATION-CONSULTING-INC..png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:image:alt" content="Elaar Immigration Consulting Inc." />
+<meta property="og:image:alt" content="Colossus Migration Consulting Inc." />
 <meta property="og:image:type" content="image/png" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Page not found - Elaar Immigration Consulting Inc" />
+<meta name="twitter:title" content="Page not found - Colossus Migration Consulting Inc" />
 <meta name="twitter:site" content="@ElaarInc" />
 <meta name="twitter:image" content="https://www.elaarimmigration.ca/wp-content/uploads/2022/02/ELAAR-IMMIGRATION-CONSULTING-INC..png" />
-<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.elaarimmigration.ca/#organization","name":"Elaar Immigration Consulting Inc.","url":"https://www.elaarimmigration.ca","sameAs":["https://www.facebook.com/elaarimmigration/","https://twitter.com/ElaarInc"],"logo":{"@type":"ImageObject","@id":"https://www.elaarimmigration.ca/#logo","url":"https://www.elaarimmigration.ca/wp-content/uploads/2022/02/Elaar-Instagram-Logo.png","contentUrl":"https://www.elaarimmigration.ca/wp-content/uploads/2022/02/Elaar-Instagram-Logo.png","caption":"Elaar Immigration Consulting Inc.","inLanguage":"en-US","width":"600","height":"600"}},{"@type":"WebSite","@id":"https://www.elaarimmigration.ca/#website","url":"https://www.elaarimmigration.ca","name":"Elaar Immigration Consulting Inc.","publisher":{"@id":"https://www.elaarimmigration.ca/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"#webpage","url":"","name":"Page not found - Elaar Immigration Consulting Inc","isPartOf":{"@id":"https://www.elaarimmigration.ca/#website"},"inLanguage":"en-US"}]}</script>
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.elaarimmigration.ca/#organization","name":"Colossus Migration Consulting Inc.","url":"https://www.elaarimmigration.ca","sameAs":["https://www.facebook.com/elaarimmigration/","https://twitter.com/ElaarInc"],"logo":{"@type":"ImageObject","@id":"https://www.elaarimmigration.ca/#logo","url":"https://www.elaarimmigration.ca/wp-content/uploads/2022/02/Elaar-Instagram-Logo.png","contentUrl":"https://www.elaarimmigration.ca/wp-content/uploads/2022/02/Elaar-Instagram-Logo.png","caption":"Colossus Migration Consulting Inc.","inLanguage":"en-US","width":"600","height":"600"}},{"@type":"WebSite","@id":"https://www.elaarimmigration.ca/#website","url":"https://www.elaarimmigration.ca","name":"Colossus Migration Consulting Inc.","publisher":{"@id":"https://www.elaarimmigration.ca/#organization"},"inLanguage":"en-US"},{"@type":"WebPage","@id":"#webpage","url":"","name":"Page not found - Colossus Migration Consulting Inc","isPartOf":{"@id":"https://www.elaarimmigration.ca/#website"},"inLanguage":"en-US"}]}</script>
 <!-- /Rank Math WordPress SEO plugin -->
 
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel="alternate" type="application/rss+xml" title="Elaar Immigration Consulting Inc &raquo; Feed" href="https://www.elaarimmigration.ca/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Elaar Immigration Consulting Inc &raquo; Comments Feed" href="https://www.elaarimmigration.ca/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Colossus Migration Consulting Inc &raquo; Feed" href="https://www.elaarimmigration.ca/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Colossus Migration Consulting Inc &raquo; Comments Feed" href="https://www.elaarimmigration.ca/comments/feed/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.elaarimmigration.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.3"}};
 /*! This file is auto-generated */
@@ -486,7 +486,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row">
 			<div class="col span_3">
 								<a id="logo" href="https://www.elaarimmigration.ca" data-supplied-ml-starting-dark="false" data-supplied-ml-starting="false" data-supplied-ml="false" >
-					<img class="stnd skip-lazy default-logo" width="500" height="90" alt="Elaar Immigration Consulting Inc" src="http://127.0.0.1:5500/wp-content/uploads/2019/04/ELAAR_FINAL-1-2.png" srcset="http://127.0.0.1:5500/wp-content/uploads/2019/04/ELAAR_FINAL-1-2.png 1x, http://127.0.0.1:5500/wp-content/uploads/2019/04/ELAAR_FINAL-1-2.png 2x" />				</a>
+					<img class="stnd skip-lazy default-logo" width="500" height="90" alt="Colossus Migration Consulting Inc" src="http://127.0.0.1:5500/wp-content/uploads/2019/04/ELAAR_FINAL-1-2.png" srcset="http://127.0.0.1:5500/wp-content/uploads/2019/04/ELAAR_FINAL-1-2.png 1x, http://127.0.0.1:5500/wp-content/uploads/2019/04/ELAAR_FINAL-1-2.png 2x" />				</a>
 							</div><!--/span_3-->
 
 			<div class="col span_9 col_last">
@@ -659,7 +659,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 </ul>
 </li>
-<li id="menu-item-11371" class="freeassessment menu-item menu-item-type-custom menu-item-object-custom button_solid_color menu-item-has-icon menu-item-11371"><a href="https://www.immefile.ca/public/assessment/elaarimmigration"><i class="nectar-menu-icon fa fa-angle-double-right"></i><span class="menu-title-text">START ASSESSMENT</span></a></li>
+<li id="menu-item-11371" class="freeassessment menu-item menu-item-type-custom menu-item-object-custom button_solid_color menu-item-has-icon menu-item-11371"><a href="https://assessment.colossusmigration.com/"><i class="nectar-menu-icon fa fa-angle-double-right"></i><span class="menu-title-text">START ASSESSMENT</span></a></li>
 							</ul>
 													<ul class="buttons sf-menu" data-user-set-ocm="off">
 
@@ -842,7 +842,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 </ul>
 </li>
-<li class="freeassessment menu-item menu-item-type-custom menu-item-object-custom menu-item-has-icon menu-item-11371"><a href="https://www.immefile.ca/public/assessment/elaarimmigration"><i class="nectar-menu-icon fa fa-angle-double-right"></i><span class="menu-title-text">START ASSESSMENT</span></a></li>
+<li class="freeassessment menu-item menu-item-type-custom menu-item-object-custom menu-item-has-icon menu-item-11371"><a href="https://assessment.colossusmigration.com/"><i class="nectar-menu-icon fa fa-angle-double-right"></i><span class="menu-title-text">START ASSESSMENT</span></a></li>
 
 
 			</ul>
@@ -1022,7 +1022,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow">
-<a href="https://www.bbb.org/ca/bc/surrey/profile/immigration-consultant/elaar-immigration-consulting-inc-0037-2396617/#sealclick" target="_blank" rel="nofollow"><img decoding="async" src="https://seal-mbc.bbb.org/seals/blue-seal-153-100-bbb-2396617.png" style="border: 0;" alt="Elaar Immigration Consulting Inc. BBB Business Review" /></a>
+<a href="https://www.bbb.org/ca/bc/surrey/profile/immigration-consultant/elaar-immigration-consulting-inc-0037-2396617/#sealclick" target="_blank" rel="nofollow"><img decoding="async" src="https://seal-mbc.bbb.org/seals/blue-seal-153-100-bbb-2396617.png" style="border: 0;" alt="Colossus Migration Consulting Inc. BBB Business Review" /></a>
 </div>
 </div>
 </div><div id="block-20" class="widget widget_block">
@@ -1065,7 +1065,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	   
 				<div class="col span_5">
 		   
-			<p>&copy; 2023 Elaar Immigration Consulting Inc. All rights reserved </p>
+			<p>&copy; 2023 Colossus Migration Consulting Inc. All rights reserved </p>
 		</div><!--/span_5-->
 			   
 	  <div class="col span_7 col_last">
