@@ -79,13 +79,13 @@ body #header-secondary-outer nav > ul > li > a {
 
 
 #header-outer[data-lhe="animated_underline"].transparent header#top nav > ul > li > a:after, #header-outer.transparent header#top nav>ul>li[class*="button_bordered"]>a:before {
-    border-color: #b10f2e!important;
+    border-color: #2d0fb1!important;
 }
 
 #header-secondary-outer,
 			#header-outer #header-secondary-outer,
 			body #header-outer #mobile-menu .secondary-header-text {
-				background: #b10f2e!important;			}
+				background: #2d0fb1!important;			}
 
 
  
@@ -155,7 +155,7 @@ body .pricing-table[data-style="flat-alternative"] .pricing-column, body .pricin
 }
 
 .pricing-column-content h4 {
-	color:#b10f2e!important;
+	color:#2d0fb1!important;
 }
 
 .pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-3 h3 {
