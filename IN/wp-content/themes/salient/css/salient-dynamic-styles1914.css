@@ -369,12 +369,12 @@ body[data-fancy-form-rcs="1"] .select2-container--default.select2-container--ope
 .gallery a:hover img {
 	border-color:#2d0fb1!important;
 }.nectar-highlighted-text[data-using-custom-color="false"]:not([data-style="text_outline"]) em{
-	  background-image: linear-gradient(to right, rgba(177,15,46, 0.3) 0%, rgba(177,15,46, 0.3) 100%);
+	  background-image: linear-gradient(to right, rgb(53, 5, 126) 0%, rgb(53, 5, 126) 100%);
 	}
 
 	.nectar-highlighted-text[data-using-custom-color="false"][data-style="regular_underline"] a em,
 	.nectar-highlighted-text[data-using-custom-color="false"][data-style="regular_underline"] em.has-link {
-	  background-image: linear-gradient(to right, rgba(177,15,46, 0.3) 0%, rgba(177,15,46, 0.3) 100%),
+	  background-image: linear-gradient(to right, rgb(53, 5, 126) 0%, rgb(53, 5, 126) 100%),
 		                  linear-gradient(to right, #2d0fb1 0%, #2d0fb1 100%);
 	}
 .nectar_icon_wrap .svg-icon-holder[data-color="accent-color"] svg path {
