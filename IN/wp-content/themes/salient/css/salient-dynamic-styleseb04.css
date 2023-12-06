@@ -811,8 +811,8 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		}
 
 		.widget .nectar_widget[class*="nectar_blog_posts_"][data-style="hover-featured-image-gradient-and-counter"] > li a .popular-featured-img:after {
-		background: #b00f2e;
-		background: linear-gradient(to right, #b00f2e, #fa9372);
+		background: #2d0fb1;
+		background: linear-gradient(to right, #2d0fb1, #fa9372);
 	}.divider-small-border[data-color="extra-color-gradient-1"],
 		.divider-border[data-color="extra-color-gradient-1"],
 		.nectar-progress-bar .extra-color-gradient-1,
@@ -820,7 +820,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-recent-posts-single_featured.multiple_featured .controls[data-color="extra-color-gradient-1"] li:after,
 		.nectar-fancy-box[data-style="default"][data-color="extra-color-gradient-1"]:after {
 			background: #fa9372;
-		  background: linear-gradient(to right, #fa9372, #b00f2e);
+		  background: linear-gradient(to right, #fa9372, #2d0fb1);
 		}
 
 		.icon-normal.extra-color-gradient-1,
@@ -831,7 +831,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-fancy-box[data-style="color_box_hover"][data-color="extra-color-gradient-1"] .box-bg:after,
     .nectar-post-grid-wrap[data-load-more-color="extra-color-gradient-1"] .load-more:before {
 			 background: #fa9372;
-		   background: linear-gradient(to bottom right, #fa9372, #b00f2e);
+		   background: linear-gradient(to bottom right, #fa9372, #2d0fb1);
 		}
 
 		body.material .nectar-button.regular.m-extra-color-gradient-1,
@@ -839,21 +839,21 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.swiper-slide .button.solid_color .extra-color-gradient-1,
 		.swiper-slide .button.transparent_2 .extra-color-gradient-1:before {
 			 background: #fa9372;
-		   background: linear-gradient(125deg, #fa9372, #b00f2e);
+		   background: linear-gradient(125deg, #fa9372, #2d0fb1);
 		}
 		body.material .nectar-button.regular.m-extra-color-gradient-1:before {
-			 background: #b00f2e;
+			 background: #2d0fb1;
 		}
 
 
 		.nectar-fancy-box[data-style="color_box_hover"][data-color="extra-color-gradient-1"]:before {
-			box-shadow: 0px 30px 90px #b00f2e;
+			box-shadow: 0px 30px 90px #2d0fb1;
 		}
 
 
 		.testimonial_slider[data-rating-color="extra-color-gradient-1"] .star-rating .filled:before {
 			 color: #fa9372;
-			 background: linear-gradient(to right, #fa9372, #b00f2e);
+			 background: linear-gradient(to right, #fa9372, #2d0fb1);
 			 -webkit-background-clip: text;
 			 -webkit-text-fill-color: transparent;
 			 background-clip: text;
@@ -864,9 +864,9 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-button.see-through-extra-color-gradient-1 {
 			 border-width: 3px;
 			 border-style: solid;
-		   -moz-border-image: -moz-linear-gradient(top right, #fa9372 0%, #b00f2e 100%);
-		   -webkit-border-image: -webkit-linear-gradient(top right, #fa9372 0%,#b00f2e 100%);
-		   border-image: linear-gradient(to bottom right, #fa9372 0%, #b00f2e 100%);
+		   -moz-border-image: -moz-linear-gradient(top right, #fa9372 0%, #2d0fb1 100%);
+		   -webkit-border-image: -webkit-linear-gradient(top right, #fa9372 0%,#2d0fb1 100%);
+		   border-image: linear-gradient(to bottom right, #fa9372 0%, #2d0fb1 100%);
 		   border-image-slice: 1;
 		}
 
@@ -876,7 +876,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		[class*=" icon-"].extra-color-gradient-1:not(.icon-normal):before,
 		.nectar_icon_wrap[data-color="extra-color-gradient-1"]:not([data-style="shadow-bg"]) i {
 			  color: #fa9372;
-			  background: linear-gradient(to bottom right, #fa9372, #b00f2e);
+			  background: linear-gradient(to bottom right, #fa9372, #2d0fb1);
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
 			  background-clip: text;
@@ -886,7 +886,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-button.extra-color-gradient-1 .hover,
 		.nectar-button.see-through-extra-color-gradient-1 .start {
 			  background: #fa9372;
-			  background: linear-gradient(to bottom right, #fa9372, #b00f2e);
+			  background: linear-gradient(to bottom right, #fa9372, #2d0fb1);
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
 			  background-clip: text;
@@ -905,7 +905,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-recent-posts-single_featured.multiple_featured .controls[data-color="extra-color-gradient-2"] li:after,
 		.nectar-fancy-box[data-style="default"][data-color="extra-color-gradient-2"]:after {
 			background: #dd3333;
-		  background: linear-gradient(to right, #dd3333, #b00f2e);
+		  background: linear-gradient(to right, #dd3333, #2d0fb1);
 		}
 
 		.icon-normal.extra-color-gradient-2,
@@ -916,7 +916,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-fancy-box[data-style="color_box_hover"][data-color="extra-color-gradient-2"] .box-bg:after,
     .nectar-post-grid-wrap[data-load-more-color="extra-color-gradient-2"] .load-more:before {
 			 background: #dd3333;
-		   background: linear-gradient(to bottom right, #dd3333, #b00f2e);
+		   background: linear-gradient(to bottom right, #dd3333, #2d0fb1);
 		}
 
 		body.material .nectar-button.regular.m-extra-color-gradient-2,
@@ -924,21 +924,21 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.swiper-slide .button.solid_color .extra-color-gradient-2,
 		.swiper-slide .button.transparent_2 .extra-color-gradient-2:before {
 			 background: #dd3333;
-		   background: linear-gradient(125deg, #dd3333, #b00f2e);
+		   background: linear-gradient(125deg, #dd3333, #2d0fb1);
 		}
 		body.material .nectar-button.regular.m-extra-color-gradient-2:before {
-			 background: #b00f2e;
+			 background: #2d0fb1;
 		}
 
 
 		.nectar-fancy-box[data-style="color_box_hover"][data-color="extra-color-gradient-2"]:before {
-			box-shadow: 0px 30px 90px #b00f2e;
+			box-shadow: 0px 30px 90px #2d0fb1;
 		}
 
 
 		.testimonial_slider[data-rating-color="extra-color-gradient-2"] .star-rating .filled:before {
 			 color: #dd3333;
-			 background: linear-gradient(to right, #dd3333, #b00f2e);
+			 background: linear-gradient(to right, #dd3333, #2d0fb1);
 			 -webkit-background-clip: text;
 			 -webkit-text-fill-color: transparent;
 			 background-clip: text;
@@ -949,9 +949,9 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-button.see-through-extra-color-gradient-2 {
 			 border-width: 3px;
 			 border-style: solid;
-		   -moz-border-image: -moz-linear-gradient(top right, #dd3333 0%, #b00f2e 100%);
-		   -webkit-border-image: -webkit-linear-gradient(top right, #dd3333 0%,#b00f2e 100%);
-		   border-image: linear-gradient(to bottom right, #dd3333 0%, #b00f2e 100%);
+		   -moz-border-image: -moz-linear-gradient(top right, #dd3333 0%, #2d0fb1 100%);
+		   -webkit-border-image: -webkit-linear-gradient(top right, #dd3333 0%,#2d0fb1 100%);
+		   border-image: linear-gradient(to bottom right, #dd3333 0%, #2d0fb1 100%);
 		   border-image-slice: 1;
 		}
 
@@ -961,7 +961,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		[class*=" icon-"].extra-color-gradient-2:not(.icon-normal):before,
 		.nectar_icon_wrap[data-color="extra-color-gradient-2"]:not([data-style="shadow-bg"]) i {
 			  color: #dd3333;
-			  background: linear-gradient(to bottom right, #dd3333, #b00f2e);
+			  background: linear-gradient(to bottom right, #dd3333, #2d0fb1);
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
 			  background-clip: text;
@@ -971,7 +971,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-button.extra-color-gradient-2 .hover,
 		.nectar-button.see-through-extra-color-gradient-2 .start {
 			  background: #dd3333;
-			  background: linear-gradient(to bottom right, #dd3333, #b00f2e);
+			  background: linear-gradient(to bottom right, #dd3333, #2d0fb1);
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
 			  background-clip: text;
@@ -1355,7 +1355,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		#footer-outer #copyright,
 		.ascend #footer-outer #copyright {
 			border: none;
-			background-color:#b00f2e;
+			background-color:#2d0fb1;
 		}
 		#footer-outer #copyright .widget h4,
 		#footer-outer #copyright li a i,

@@ -331,7 +331,7 @@ display:none!important}
 
 
 body.single-post .page-header-bg-image:after{
-    background-color: rgb(176, 15, 46, 1) !important;
+    background-color: rgb(53,5,126,1) !important;
 }
 
 .page-header-bg-image {
@@ -519,11 +519,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<li id="menu-item-9654" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-9654"><a href="https://www.elaarimmigration.ca/bc-pnp-employer-requirements/"><span class="menu-title-text">BC PNP Employer Requirements</span></a></li>
 	</ul>
 </li>
-	<li id="menu-item-13313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nectar-regular-menu-item menu-item-13313"><a href="https://www.elaarimmigration.ca/immigration-consultant-whitehorse-yukon/"><span class="menu-title-text">Yukon Immigration</span><span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu" aria-hidden="true"></i></span></a>
+	<li id="menu-item-13313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nectar-regular-menu-item menu-item-13313"><a href="https://www.elaarimmigration.ca/immigration-consultant-whitehorse-./"><span class="menu-title-text">. Immigration</span><span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu" aria-hidden="true"></i></span></a>
 	<ul class="sub-menu">
-		<li id="menu-item-13311" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-13311"><a href="https://www.elaarimmigration.ca/yukon-nominee-program-ynp/"><span class="menu-title-text">Yukon Nominee Program</span></a></li>
-		<li id="menu-item-13314" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-13314"><a href="https://www.elaarimmigration.ca/yukon-express-entry/"><span class="menu-title-text">Yukon Express Entry</span></a></li>
-		<li id="menu-item-13312" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-13312"><a href="https://www.elaarimmigration.ca/ybnp-yukon-business-nominee-program/"><span class="menu-title-text">Yukon Business Nominee Program</span></a></li>
+		<li id="menu-item-13311" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-13311"><a href="https://www.elaarimmigration.ca/.-nominee-program-ynp/"><span class="menu-title-text">. Nominee Program</span></a></li>
+		<li id="menu-item-13314" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-13314"><a href="https://www.elaarimmigration.ca/.-express-entry/"><span class="menu-title-text">. Express Entry</span></a></li>
+		<li id="menu-item-13312" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-13312"><a href="https://www.elaarimmigration.ca/ybnp-.-business-nominee-program/"><span class="menu-title-text">. Business Nominee Program</span></a></li>
 	</ul>
 </li>
 	<li id="menu-item-1406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nectar-regular-menu-item menu-item-1406"><a href="https://www.elaarimmigration.ca/provincial-nominee-program-pnp/"><span class="menu-title-text">Provincial Nominee Program</span><span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu" aria-hidden="true"></i></span></a>
@@ -537,7 +537,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<li id="menu-item-12698" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-12698"><a href="https://www.elaarimmigration.ca/novascotia-provincial-nominee-program/"><span class="menu-title-text">Nova Scotia</span></a></li>
 		<li id="menu-item-12695" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-12695"><a href="https://www.elaarimmigration.ca/princeedwardisland-provincial-nominee-program/"><span class="menu-title-text">Prince Edward Island</span></a></li>
 		<li id="menu-item-12693" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-12693"><a href="https://www.elaarimmigration.ca/sinp-calculator/"><span class="menu-title-text">Saskatchewan</span></a></li>
-		<li id="menu-item-12694" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-12694"><a href="https://www.elaarimmigration.ca/yukon-nominee-program-ynp/"><span class="menu-title-text">Yukon</span></a></li>
+		<li id="menu-item-12694" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-12694"><a href="https://www.elaarimmigration.ca/.-nominee-program-ynp/"><span class="menu-title-text">.</span></a></li>
 	</ul>
 </li>
 	<li id="menu-item-7188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nectar-regular-menu-item menu-item-7188"><a href="#"><span class="menu-title-text">Special Programs</span><span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu" aria-hidden="true"></i></span></a>
@@ -632,7 +632,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<li id="menu-item-10266" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-10266"><a href="https://www.elaarimmigration.ca/novascotia-provincial-nominee-program/"><span class="menu-title-text">Nova Scotia</span></a></li>
 		<li id="menu-item-10270" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-10270"><a href="https://www.elaarimmigration.ca/newfoundland-and-labrador-entrepreneur-stream/"><span class="menu-title-text">Newfoundland &#038; Labrador</span></a></li>
 		<li id="menu-item-10269" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-10269"><a href="https://www.elaarimmigration.ca/prince-edward-island-entrepreneur-program/"><span class="menu-title-text">Prince Edward Island</span></a></li>
-		<li id="menu-item-10271" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-10271"><a href="https://www.elaarimmigration.ca/ybnp-yukon-business-nominee-program/"><span class="menu-title-text">Yukon</span></a></li>
+		<li id="menu-item-10271" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-10271"><a href="https://www.elaarimmigration.ca/ybnp-.-business-nominee-program/"><span class="menu-title-text">.</span></a></li>
 	</ul>
 </li>
 </ul>
@@ -702,11 +702,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9654"><a href="https://www.elaarimmigration.ca/bc-pnp-employer-requirements/">BC PNP Employer Requirements</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13313"><a href="https://www.elaarimmigration.ca/immigration-consultant-whitehorse-yukon/">Yukon Immigration</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13313"><a href="https://www.elaarimmigration.ca/immigration-consultant-whitehorse-./">. Immigration</a>
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13311"><a href="https://www.elaarimmigration.ca/yukon-nominee-program-ynp/">Yukon Nominee Program</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13314"><a href="https://www.elaarimmigration.ca/yukon-express-entry/">Yukon Express Entry</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13312"><a href="https://www.elaarimmigration.ca/ybnp-yukon-business-nominee-program/">Yukon Business Nominee Program</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13311"><a href="https://www.elaarimmigration.ca/.-nominee-program-ynp/">. Nominee Program</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13314"><a href="https://www.elaarimmigration.ca/.-express-entry/">. Express Entry</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13312"><a href="https://www.elaarimmigration.ca/ybnp-.-business-nominee-program/">. Business Nominee Program</a></li>
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1406"><a href="https://www.elaarimmigration.ca/provincial-nominee-program-pnp/">Provincial Nominee Program</a>
@@ -720,7 +720,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12698"><a href="https://www.elaarimmigration.ca/novascotia-provincial-nominee-program/">Nova Scotia</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12695"><a href="https://www.elaarimmigration.ca/princeedwardisland-provincial-nominee-program/">Prince Edward Island</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12693"><a href="https://www.elaarimmigration.ca/sinp-calculator/">Saskatchewan</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12694"><a href="https://www.elaarimmigration.ca/yukon-nominee-program-ynp/">Yukon</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12694"><a href="https://www.elaarimmigration.ca/.-nominee-program-ynp/">.</a></li>
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7188"><a href="#">Special Programs</a>
@@ -815,7 +815,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10266"><a href="https://www.elaarimmigration.ca/novascotia-provincial-nominee-program/">Nova Scotia</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10270"><a href="https://www.elaarimmigration.ca/newfoundland-and-labrador-entrepreneur-stream/">Newfoundland &#038; Labrador</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10269"><a href="https://www.elaarimmigration.ca/prince-edward-island-entrepreneur-program/">Prince Edward Island</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10271"><a href="https://www.elaarimmigration.ca/ybnp-yukon-business-nominee-program/">Yukon</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10271"><a href="https://www.elaarimmigration.ca/ybnp-.-business-nominee-program/">.</a></li>
 	</ul>
 </li>
 </ul>
@@ -1048,9 +1048,9 @@ Adjacent Mega Chicken,
  Agidingbi, Ikeja, Lagos, Nigeria
 Tel/WhatsApp: 09026953513, Surrey, BC V3R 1M9</a></p>
 </div><div id="block-23" class="widget widget_block widget_text">
-<p><strong>Kamloops</strong><br><a href="https://goo.gl/maps/EvzYkv2vzVwShqVH6" target="_blank" rel="noreferrer noopener">.</a></p>
+<p><strong>.</strong><br><a href="https://goo.gl/maps/EvzYkv2vzVwShqVH6" target="_blank" rel="noreferrer noopener">.</a></p>
 </div><div id="block-24" class="widget widget_block widget_text">
-<p><strong>Yukon</strong><br><a href="https://goo.gl/maps/ZQoi9Kun2xBwDAHE9" target="_blank" rel="noreferrer noopener">.</a><strong><br></strong></p>
+<p><strong>.</strong><br><a href="https://goo.gl/maps/ZQoi9Kun2xBwDAHE9" target="_blank" rel="noreferrer noopener">.</a><strong><br></strong></p>
 </div><div id="block-25" class="widget widget_block widget_text">
 <p></p>
 </div><div id="block-26" class="widget widget_block widget_text">
