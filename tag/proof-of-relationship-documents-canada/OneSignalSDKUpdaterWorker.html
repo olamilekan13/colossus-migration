@@ -452,7 +452,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li id="menu-item-4406" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-4406"><a href="https://www.elaarimmigration.ca/news/"><span class="menu-title-text">NEWS</span></a></li>
 <li id="menu-item-5439" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-5439"><a href="https://www.elaarimmigration.ca/blog/"><span class="menu-title-text">BLOG</span></a></li>
 <li id="menu-item-2879" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-2879"><a href="https://www.elaarimmigration.ca/contact-us/"><span class="menu-title-text">CONTACT US</span></a></li>
-<li id="menu-item-10279" class="menu-item menu-item-type-custom menu-item-object-custom button_solid_color menu-item-has-icon menu-item-10279"><a href="tel:+16044960735"><i class="nectar-menu-icon fa fa-phone"></i><span class="menu-title-text">09026953513</span></a></li>
+<li id="menu-item-10279" class="menu-item menu-item-type-custom menu-item-object-custom button_solid_color menu-item-has-icon menu-item-10279"><a href="tel:+4407455674027"><i class="nectar-menu-icon fa fa-phone"></i><span class="menu-title-text">09026953513</span></a></li>
 <li id="menu-item-10280" class="menu-item menu-item-type-custom menu-item-object-custom button_solid_color menu-item-has-icon menu-item-10280"><a href="mailto:info@colossusmigration.com"><i class="nectar-menu-icon fa fa-send-o"></i><span class="menu-title-text">info@colossusmigration.com</span></a></li>
 					</ul>
 									
@@ -855,7 +855,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4406"><a href="https://www.elaarimmigration.ca/news/">NEWS</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5439"><a href="https://www.elaarimmigration.ca/blog/">BLOG</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2879"><a href="https://www.elaarimmigration.ca/contact-us/">CONTACT US</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10279"><a href="tel:+16044960735">09026953513</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10279"><a href="tel:+4407455674027">09026953513</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10280"><a href="mailto:info@colossusmigration.com">info@colossusmigration.com</a></li>
 
 				</ul>
